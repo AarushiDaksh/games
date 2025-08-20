@@ -1,2 +1,1 @@
-# cloudClause
-#internship projects
+# basic projects learning
